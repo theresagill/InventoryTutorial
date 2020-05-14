@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51a6ef512310e0842a3783690cfe2f29, type: 3}
+  m_Name: Monkfish
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 6297100145625644690, guid: 1abc6132e161ec14e86fa750f486c628, type: 3}
+  type: 0
+  description: Fish from the Sea of Galilee
+  restoreHealthValue: 16

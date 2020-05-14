@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f8f0365437cc5947b09fea74060b27e, type: 3}
+  m_Name: Shield
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 2659990907594615104, guid: b64e08e5bc51d7c489f94cdf0e1a148d, type: 3}
+  type: 1
+  description: Shield of bronze
+  attackBonus: 0
+  defenseBonus: 25
